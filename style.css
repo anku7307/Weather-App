@@ -1,0 +1,36 @@
+
+.box{
+    height:400px;
+    width:350px;
+    border:2px solid;
+    border-radius: 20px;
+    margin:100px auto;
+    text-align: center;
+    background:linear-gradient(to bottom,#0404ddbc,rgba(226,195,195,0.647));
+}
+.box input{
+    height:45px;
+    width:60%;
+    margin-top:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+
+}
+.box button{
+    height: 55px;
+    width:100px;
+    border-radius: 5px;
+    border:0px;
+    padding: 5px;
+    background-color: tomato;
+    color:white;
+    font-size: 20px;
+}
+#box2{
+    height:100px;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
